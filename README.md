@@ -25,4 +25,16 @@
 
 ## 📂 Projects
 🔹 Academic & personal projects focused on problem-solving  
-🔹 Hands-on practice wi
+🔹 Hands-on practice with frontend and backend concepts  
+🔹 Data analysis and SQL-based practice projects  
+
+---
+
+## 📫 Contact
+📧 Email: your_email@gmail.com  
+💼 LinkedIn: linkedin.com/in/yourprofile  
+
+---
+
+⭐ *Actively seeking entry-level IT roles*
+

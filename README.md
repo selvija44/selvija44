@@ -31,8 +31,8 @@
 ---
 
 ## 📫 Contact
-📧 Email: your_email@gmail.com  
-💼 LinkedIn: linkedin.com/in/yourprofile  
+📧 Email: poojasasi112@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/pooja-jayashankar-a53563221/
 
 ---
 
